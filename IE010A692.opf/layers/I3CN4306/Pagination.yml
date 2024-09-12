@@ -1,4 +1,4 @@
-id: 58996df977c4422bbce61e181ad2e06b
+id: c7016a5512dd4a8ab4e5526e092cc36e
 annotation_type: Pagination
 revision: '00001'
 annotations:
@@ -13,7 +13,7 @@ annotations:
       start: 1103
       end: 2213
     imgnum: 32
-    reference: I3CN43060032.tif
+    reference: I3CN43060032.jpg
   877c63eb196e48aaac2bff5f621696c6:
     span:
       start: 2215
@@ -61,7 +61,7 @@ annotations:
       start: 9889
       end: 10978
     imgnum: 40
-    reference: I3CN43060040.tif
+    reference: I3CN43060040.jpg
   a3f44ebfdfab4dfbb35fbe4608752e24:
     span:
       start: 10980
@@ -169,7 +169,7 @@ annotations:
       start: 29766
       end: 30875
     imgnum: 58
-    reference: I3CN43060058.tif
+    reference: I3CN43060058.jpg
   6d47c4dad128473bbb9f121cbfd1a831:
     span:
       start: 30877
@@ -181,7 +181,7 @@ annotations:
       start: 31993
       end: 32963
     imgnum: 60
-    reference: I3CN43060060.tif
+    reference: I3CN43060060.jpg
   37f0ca41c1484b39ac04adc0a1ece76a:
     span:
       start: 32965
@@ -493,7 +493,7 @@ annotations:
       start: 89205
       end: 90434
     imgnum: 112
-    reference: I3CN43060112.tif
+    reference: I3CN43060112.jpg
   9261d966b76e4e46b0b609c72435a4d3:
     span:
       start: 90436
@@ -571,7 +571,7 @@ annotations:
       start: 102795
       end: 103886
     imgnum: 125
-    reference: I3CN43060125.tif
+    reference: I3CN43060125.jpg
   30bacd4441b443ed9ad00e4dc851207b:
     span:
       start: 103888
@@ -589,7 +589,7 @@ annotations:
       start: 106079
       end: 106647
     imgnum: 128
-    reference: I3CN43060128.tif
+    reference: I3CN43060128.jpg
   1383ff4c5f354c5cbfc23c53cdaeef7b:
     span:
       start: 106649
